@@ -19,5 +19,12 @@ def variable(name):
     print(f'hi, {name}')
     print("end")
 
+
+def func():
+    return None
+
+
 if __name__ == "__main__":
     variable('dimas')
+
+print("done")
